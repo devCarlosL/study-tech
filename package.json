@@ -1,0 +1,8 @@
+{
+  "name": "study-tech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devCarlosL/study-tech.git",
+  "author": "Carlos Lopes <dev.carloslopes@gmail.com>",
+  "license": "MIT"
+}
